@@ -4,6 +4,7 @@ import Firestore from "./Firestore";
 function App() {
   return (
     <div className="App">
+      new blog
       <BlogDetails />
       <Firestore />
     </div>
